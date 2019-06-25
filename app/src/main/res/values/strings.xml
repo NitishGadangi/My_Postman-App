@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Postman</string>
+    <string name="test_message">After Android Oreo, Google introduced some background
+        limitations. Therefore, this solution above wont work probably. When a user kills
+        your app from task manager, Android System will kill your service as well. If you want
+        to run a service which is always alive in the background. You have to run a foreground service
+        with showing an ongoing notification. So, edit your service like below.</string>
+
+    <string name="pref_post_main">nitish.build.com.post_test1_pref_post_main</string>
+    <string name="pref_post_api_url">nitish.build.com.post_test1_post_api_url</string>
+    <string name="pref_post_imei1">nitish.build.com.post_test1_imei_one</string>
+    <string name="pref_post_imei2">nitish.build.com.post_test1_imei_two</string>
+</resources>
