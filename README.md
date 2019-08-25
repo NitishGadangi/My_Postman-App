@@ -8,7 +8,7 @@ In the above source the app constantly posts various details about the messages 
 
 ## Whats happening in above app:
 **REQUEST RAW DATA:**
-
+```
 POST /test.php HTTP/1.1
 Host: somewebsitename.xyz
 User-Agent: insomnia/6.3.2
@@ -16,7 +16,7 @@ Content-Type: application/json
 Accept: */*
 Content-Length: 145
 Connection: keep-alive
-
+```
 ```json
 {
   "device_id":"xxxxxxxxxxxxxx",
@@ -63,7 +63,7 @@ stdClass Object
 
 **In this way there is a possiblity to add several other features to adjust it as per your requirements.**
 
-### Code implementation instructions:
+## Code implementation instructions:
 ```
 **This will be made available soon**
 ```
